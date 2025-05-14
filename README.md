@@ -38,12 +38,6 @@ double-click index.html
 
 ---
 
-## 📹 Screen Recording
-
-![orbit-demo](screenshots/orbit-demo.gif)
-
----
-
 ## 🧠 Description
 
 - The **Sun** is centered and glowing  

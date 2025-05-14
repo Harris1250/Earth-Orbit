@@ -40,7 +40,7 @@ double-click index.html
 
 ## 📹 Screen Recording
 
-[🎥 Watch Demo](recordings/orbit-demo.mp4)
+[🎥 Watch Demo](https://github.com/Harris1250/Earth-Orbit/raw/main/recordings/orbit-demo.mp4)
 
 ---
 

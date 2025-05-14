@@ -40,7 +40,7 @@ double-click index.html
 
 ## 📹 Screen Recording
 
-[🎥 Watch Demo](./recordings/orbit-preview.mp4)
+![orbit-demo](screenshots/orbit-demo.gif)
 
 ---
 
